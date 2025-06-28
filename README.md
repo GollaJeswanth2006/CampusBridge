@@ -1,13 +1,13 @@
-# PeerBridge
-PeerBridge - AI-powered peer learning platform matching students with ideal mentors. Features: real-time chat with markdown, doubt tracking, gamified rewards, priority tagging, progress analytics, and image uploads. Built with React, Node.js, MongoDB, and Gemini AI.
+# CampusBridge
+CampusBridge - AI-powered peer learning platform matching students with ideal mentors. Features: real-time chat with markdown, doubt tracking, gamified rewards, priority tagging, progress analytics, and image uploads. Built with React, Node.js, MongoDB, and Gemini AI.
 
 
 
 
-# PeerBridge - AI-Powered Peer Learning Platform
+# CampusBridge - AI-Powered Peer Learning Platform
 
 ## Overview
-PeerBridge is a modern peer-to-peer learning platform that connects students ("Juniors") with mentors ("Seniors") using AI-powered matching. The platform facilitates knowledge sharing through doubt posting, real-time communication, and gamified learning experiences.
+CampusBridge is a modern peer-to-peer learning platform that connects students ("Juniors") with mentors ("Seniors") using AI-powered matching. The platform facilitates knowledge sharing through doubt posting, real-time communication, and gamified learning experiences.
 
 ## Key Features
 - **AI-Powered Matching**: Gemini AI analyzes doubts and matches them with suitable mentors
@@ -47,10 +47,4 @@ PeerBridge is a modern peer-to-peer learning platform that connects students ("J
 - Mobile-responsive design
 - Form validation and error handling
 
-## Future Enhancements
-- Video call integration for live tutoring
-- AI-generated doubt summaries
-- Skill-based matching algorithms
-- Cross-platform mobile app
-
-PeerBridge aims to transform traditional learning by creating an engaging, AI-enhanced community where knowledge flows freely between peers.
+CampusBridge aims to transform traditional learning by creating an engaging, AI-enhanced community where knowledge flows freely between peers.
